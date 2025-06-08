@@ -79,6 +79,7 @@ notifier_system/
 ```
 
 ## 📋 Exemplo de .env
+
 EMAIL_USER=<seuemail@gmail.com>
 EMAIL_PASSWORD=suasenhaouappkey
 
