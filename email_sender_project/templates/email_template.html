@@ -2,17 +2,52 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
-  <title>Email</title>
-  <style>
-    {{ inline_css | safe }}
-  </style>
+  <title>Oferta Especial</title>
 </head>
-<body>
-  <div class="container">
-    <h1>Olá {{ name }},</h1>
-    <p>Estamos felizes em compartilhar uma oferta especial feita para você.</p>
-    <p>Confira agora e aproveite os benefícios exclusivos.</p>
-    <p>Atenciosamente,<br>Equipe de Marketing</p>
+<body style="margin:0; padding:0; background-color:#f4f4f4; font-family: Arial, sans-serif; color:#333;">
+
+  <!-- Visualizar no navegador -->
+  <div style="text-align:center; font-size:12px; color:#999; padding:10px;">
+    Se este e-mail não for exibido corretamente, <a href="{{ web_version_url }}" style="color:#007BFF; text-decoration: none;">clique aqui</a>.
   </div>
+
+  <!-- Cabeçalho -->
+  <div style="background-color:#007BFF; padding:20px 0; text-align:center;">
+    <h1 style="color:#ffffff; margin:0; font-size:24px;">{{ company_name }}</h1>
+    <!-- Se quiser, use uma logo ao invés do nome:
+    <img src="{{ logo_url }}" alt="Logo" style="max-height:50px;" />
+    -->
+  </div>
+
+  <!-- Imagem de capa -->
+  <div style="text-align:center;">
+    <img src="{{ banner_url }}" alt="Oferta especial" style="width:100%; max-width:600px; height:auto; display:block; margin:0 auto;" />
+  </div>
+
+  <!-- Corpo -->
+  <div style="background-color:#ffffff; max-width:600px; margin:30px auto; padding:30px; border-radius:8px; box-shadow:0 0 10px rgba(0,0,0,0.05);">
+    <h2 style="color:#007BFF; font-size:22px;">Olá {{ name }},</h2>
+    <p style="font-size:16px; line-height:1.6;">Você faz parte de uma nova era. Criamos uma oferta exclusiva especialmente para você, com foco em inovação, tecnologia e benefícios únicos.</p>
+
+    <div style="text-align:center; margin:30px 0;">
+      <a href="{{ button_url }}" style="background-color:#28a745; color:#ffffff; padding:12px 24px; border-radius:30px; font-weight:bold; text-decoration:none; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        {{ button_text }} ➜
+      </a>
+    </div>
+
+    <p style="font-size:16px;">Conte sempre com a gente.<br><strong>Equipe de Marketing</strong></p>
+  </div>
+
+  <!-- Rodapé -->
+  <div style="max-width:600px; margin:0 auto 30px auto; text-align:center; font-size:13px; color:#777; padding:20px 10px;">
+    <p style="margin-bottom:10px;">Você está recebendo este e-mail porque está cadastrado na nossa plataforma.</p>
+    <p style="margin-bottom:10px;">
+      <a href="{{ facebook_url }}" style="margin:0 8px;"><img src="https://cdn-icons-png.flaticon.com/24/733/733547.png" alt="Facebook" style="vertical-align:middle;"></a>
+      <a href="{{ instagram_url }}" style="margin:0 8px;"><img src="https://cdn-icons-png.flaticon.com/24/733/733558.png" alt="Instagram" style="vertical-align:middle;"></a>
+      <a href="{{ twitter_url }}" style="margin:0 8px;"><img src="https://cdn-icons-png.flaticon.com/24/733/733579.png" alt="Twitter" style="vertical-align:middle;"></a>
+    </p>
+    <p style="color:#aaa;">&copy; {{ current_year }} {{ company_name }}. Todos os direitos reservados.</p>
+  </div>
+
 </body>
 </html>
