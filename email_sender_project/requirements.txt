@@ -1,0 +1,4 @@
+jinja2
+tenacity
+python-dotenv
+email-validator

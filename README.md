@@ -76,17 +76,17 @@ notifier_system/
   "sleep_time": 2,
   "default_body": "Confira nossa oferta exclusiva!"
 }
+```
 
-
-##📋 Exemplo de .env
-EMAIL_USER=seuemail@gmail.com
+## 📋 Exemplo de .env
+EMAIL_USER=<seuemail@gmail.com>
 EMAIL_PASSWORD=suasenhaouappkey
 
+## 🧪 Execução
 
-##🧪 Execução
-
+```
 python email_sender.py
-
+```
 
 ## 🛠️ Sugestões de Melhoria – Versão 2.0
 
