@@ -1,0 +1,2145 @@
+{
+  "solicitacao": "Lista de blogs, jornais e portais de notícia do Brasil",
+  "estados": [
+    {
+      "estado": "Acre",
+      "jornais": [],
+      "portais_de_noticias": [
+        {
+          "nome": "AC24Horas",
+          "cidade": "Rio Branco",
+          "url": "https://ac24horas.com/",
+          "contato": "(68) 99906-7268 (Editora Chefe)",
+          "email": "faleconosco@ac24horas.com",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Notícias da Hora",
+          "cidade": "Rio Branco",
+          "url": "https://noticiasdahora.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "contatos@noticiasdahora.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Acre.com.br",
+          "cidade": "Rio Branco",
+          "url": "https://www.acre.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "contato@acre.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "ContilNet Notícias",
+          "cidade": "Rio Branco",
+          "url": "https://contilnetnoticias.com.br/",
+          "contato": "(68) 99946-6195",
+          "email": "Não disponível publicamente (e-mails genéricos no site)",
+          "endereco": "Rio Branco – Acre"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "A Gazeta.net",
+          "cidade": "Rio Branco",
+          "url": "https://agazeta.net/",
+          "contato": "(68) 9907-9096 (WhatsApp)",
+          "email": "Não disponível publicamente",
+          "endereco": "Av. Antônio da Rocha Viana, 1.559, Vila Ivonete, Rio Branco - Acre, Cep. 69918-308"
+        },
+        {
+          "nome": "Expresso Notícia AC",
+          "cidade": "Rio Branco",
+          "url": "https://expressonoticiaac.com.br/",
+          "contato": "(68) 999202207 (WhatsApp)",
+          "email": "contato@expressonoticiaac.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Folha do Acre Notícias",
+          "cidade": "Rio Branco",
+          "url": "https://folhadoacre.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "folhadoacreoficial@gmail.com",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Acre Jornal",
+          "cidade": "Rio Branco",
+          "url": "https://acrejornal.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "contato@acrejornal.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Acre in Foco",
+          "cidade": "Rio Branco",
+          "url": "https://acreinfoco.com/",
+          "contato": "Não disponível publicamente",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        }
+      ]
+    },
+    {
+      "estado": "Alagoas",
+      "jornais": [
+        {
+          "nome": "Tribuna Hoje",
+          "cidade": "Maceió",
+          "url": "https://tribunahoje.com/",
+          "contato": "(82) 2121-6100",
+          "email": "redacao@tribunahoje.com",
+          "endereco": "Rua Dom Santino, 100 - Farol, Maceió - AL, 57055-620"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "TNH1",
+          "cidade": "Maceió",
+          "url": "https://www.tnh1.com.br/",
+          "contato": "(82) 3036-5600",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Alagoas Alerta",
+          "cidade": "Maceió",
+          "url": "https://alagoasalerta.com.br/",
+          "contato": "(82) 99124-7333",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "O Alagoano",
+          "cidade": "Maceió",
+          "url": "https://oalagoano.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "contato@oalagoano.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "GazetaWeb",
+          "cidade": "Maceió",
+          "url": "https://www.gazetaweb.com/",
+          "contato": "Não disponível publicamente",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Blog Kleverson Levy",
+          "cidade": "Maceió",
+          "url": "https://blogkleversonlevy.com.br/",
+          "contato": "(82) 99317-0985",
+          "email": "kleversonlevy@gmail.com",
+          "endereco": "Não disponível publicamente"
+        }
+      ]
+    },
+    {
+      "estado": "Amapá",
+      "jornais": [
+        {
+          "nome": "Jornal O Guarani",
+          "cidade": "Macapá",
+          "url": "https://jornaloguarani.com/index.php",
+          "contato": "Redação: (96) 98112-0161 / Comercial: (96) 99179-7814",
+          "email": "Não disponível publicamente",
+          "endereco": "Av. Fab, 1070 - Centro, Edifício Macapá Office Center - Sala 505, Macapá - AP"
+        },
+        {
+          "nome": "Jornal do Dia",
+          "cidade": "Macapá",
+          "url": "https://www.jdia.com.br/",
+          "contato": "+55 (96) 3217-1100",
+          "email": "comercialjd.2011@gmail.com",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Jornal O Amapá",
+          "cidade": "Macapá",
+          "url": "https://jornaloamapa.com/",
+          "contato": "Não disponível publicamente (contato via redes sociais)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "SelesNafes.com",
+          "cidade": "Macapá",
+          "url": "https://selesnafes.com/",
+          "contato": "Não disponível publicamente",
+          "email": "contato@selesnafes.com",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Agência de Notícias do Amapá",
+          "cidade": "Macapá",
+          "url": "https://agenciaamapa.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Amapá Online",
+          "cidade": "Macapá",
+          "url": "https://amapaonline.com/",
+          "contato": "Não disponível publicamente",
+          "email": "contatoamapaonline@gmail.com",
+          "endereco": "Não disponível publicamente"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "De Bubuia (Site de Notícias do Amapá)",
+          "cidade": "Macapá",
+          "url": "https://www.debubuia.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "debubuia@debubuia.com.br",
+          "endereco": "Não disponível publicamente"
+        }
+      ]
+    },
+    {
+      "estado": "Amazonas",
+      "jornais": [
+        {
+          "nome": "Jornal do Commercio AM",
+          "cidade": "Manaus",
+          "url": "https://jcam.com.br/",
+          "contato": "(92) 2101-5500, WhatsApp: (92) 99618-5722",
+          "email": "Não disponível publicamente no site",
+          "endereco": "Av. Tefé, 3025 - Japiim, Manaus - AM, 69078-000"
+        },
+        {
+          "nome": "A Crítica",
+          "cidade": "Manaus",
+          "url": "https://www.acritica.com/",
+          "contato": "Informações de contato (telefone/endereço) não disponíveis publicamente no site",
+          "email": "Não disponível publicamente no site"
+        },
+        {
+          "nome": "Imprensa Oficial AM",
+          "abrangencia": "Amazonas - geral",
+          "url": "http://imprensaoficial.am.gov.br/",
+          "contato": "Não disponível publicamente no site para contato direto com jornalismo ou redação, mas sim para o órgão oficial."
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "D24AM",
+          "cidade": "Manaus",
+          "url": "https://d24am.com/",
+          "contato": "(92) 3643-5080, (92) 3643-5068, (92) 99291-4504",
+          "email": "redacao@diarioam.com.br, fiscal@diarioam.com.br, comercial@diarioam.com.br, diarioam@gmail.com",
+          "endereco": "Av. Djalma Batista, 2010 - Parque 10 de Novembro, Manaus - AM, 69050-900"
+        },
+        {
+          "nome": "Portal do Holanda",
+          "cidade": "Manaus",
+          "url": "https://www.portaldoholanda.com.br/",
+          "contato": "Informações de contato (telefone/endereço) não disponíveis publicamente no site",
+          "email": "Não disponível publicamente no site"
+        },
+        {
+          "nome": "Radar Amazônico",
+          "cidade": "Manaus",
+          "url": "https://radaramazonico.com.br/",
+          "contato": "(92) 3304-3143, (92) 9 9524-8580",
+          "email": "Não disponível publicamente no site",
+          "endereco": "Informações de endereço não disponíveis publicamente no site"
+        },
+        {
+          "nome": "BNC Amazonas",
+          "cidade": "Manaus",
+          "url": "https://bncamazonas.com.br/",
+          "contato": "Informações de contato (telefone/endereço) não disponíveis publicamente no site",
+          "email": "neutoncorrea@hotmail.com, diretoriademercado@gmail.com"
+        },
+        {
+          "nome": "Portal do Marcos Santos",
+          "cidade": "Manaus",
+          "url": "https://www.portalmarcossantos.com.br/",
+          "contato": "Informações de contato (telefone/endereço) não disponíveis publicamente no site",
+          "email": "contato@portalmarcossantos.com.br"
+        },
+        {
+          "nome": "Portal Amazônia",
+          "cidade": "Manaus",
+          "url": "https://portalamazonia.com/",
+          "contato": "Informações de contato (telefone/endereço) não disponíveis publicamente no site",
+          "email": "jornalismo@portalamazonia.com, lemmos.ribeiro@gruporedeamazonica.com.br, clarissa.bacellar@amazonsat.com.br, diego.oliveira@portalamazonia.com, isabelle.lima@amazonsat.com.br"
+        },
+        {
+          "nome": "Parintins 24 Horas",
+          "cidade": "Parintins",
+          "url": "https://parintins24hs.com.br/",
+          "contato": "Não disponível nas fontes. Links para redes sociais são fornecidos."
+        },
+        {
+          "nome": "Reporter Parintins",
+          "cidade": "Parintins",
+          "url": "https://reporterparintins.com.br/",
+          "contato": "Não disponível nas fontes. Um link 'Fale Conosco' está presente no website."
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Amazônia Real",
+          "abrangencia": "Amazonas - geral (jornalismo investigativo)",
+          "url": "https://amazoniareal.com.br/",
+          "contato": "Informações de contato (telefone/endereço) não disponíveis publicamente no site, focam em contato via email/redes sociais",
+          "email": "contato@amazoniareal.com.br (geral), pautas@amazoniareal.com.br (sugestão de pautas)"
+        },
+        {
+          "nome": "FAS Amazônia Blog",
+          "abrangencia": "Amazonas - geral",
+          "url": "https://fas-amazonia.org/blog-da-fas/2022/11/25/unidades-de-conservacao-no-amazonas/",
+          "contato": "Não disponível nas fontes."
+        },
+        {
+          "nome": "UIKA BR Blog",
+          "abrangencia": "Amazonas - geral",
+          "url": "https://uikabr.com/blog",
+          "contato": "Não disponível nas fontes."
+        },
+        {
+          "nome": "Blog do Pávulo",
+          "cidade": "Manaus",
+          "url": "https://blogdopavulo.com/",
+          "contato": "Não disponível nas fontes. Links para redes sociais são fornecidos."
+        },
+        {
+          "nome": "Amazonas Atual",
+          "cidade": "Manaus",
+          "url": "https://amazonasatual.com.br/",
+          "contato": "Não disponível nas fontes. Links para redes sociais são fornecidos."
+        },
+        {
+          "nome": "Parintins Amazonas",
+          "cidade": "Parintins",
+          "url": "https://parintinsamazonas.com.br/",
+          "contato": "Não disponível nas fontes. Um link 'Publicidade' está presente."
+        },
+        {
+          "nome": "Portal deAmazônia",
+          "cidade": "Parintins",
+          "url": "https://deamazonia.com/",
+          "contato": "Não disponível nas fontes, embora 'Contact Us' seja mencionado."
+        }
+      ]
+    },
+    {
+      "estado": "Bahia",
+      "jornais": [
+        {
+          "nome": "Jornal Correio (Correio 24 Horas)",
+          "cidade": "Salvador",
+          "url": "https://www.correio24horas.com.br/",
+          "contato": "Assinaturas: (71) 3480-9140; Anuncie: (71) 3203-1353; Ache Aqui Classificados: (71) 3480-9130; Redação: (71) 3203-1048",
+          "email": "Não disponível publicamente (contato via formulário no site)",
+          "endereco": "Rua Aristedes Novis, 123, Federação, CEP: 40210-630 - Salvador, Bahia, Brasil."
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Bahia Notícias",
+          "cidade": "Salvador",
+          "url": "https://www.bahianoticias.com.br/",
+          "contato": "(071) 3271-4587",
+          "email": "Não disponível publicamente (contato via formulário no site)",
+          "endereco": "Rua Ewerton Visco, 324, Edf.: Holding Empresarial, salas 802 a 809, Caminho das Árvores, Cep: 41820-022, Salvador, BA."
+        },
+        {
+          "nome": "Bnews",
+          "cidade": "Salvador",
+          "url": "https://www.bnews.com.br/",
+          "contato": "Redação: (71) 9 8151-6184; Comercial: (71) 3341-2166",
+          "email": "Não disponível publicamente (contato via formulário no site)",
+          "endereco": "Rua Frederico Simões, 98. Caminho das Árvores. Salvador - BA."
+        },
+        {
+          "nome": "iBahia",
+          "cidade": "Salvador",
+          "url": "https://www.ibahia.com/",
+          "contato": "WhatsApp: (71) 99231993",
+          "email": "Não disponível publicamente (contato via formulário no site)",
+          "endereco": "Rua Prof. Aristides Novis, 123, Federação, CEP: 40.210-630 - Salvador/Bahia."
+        },
+        {
+          "nome": "Bahia.Ba",
+          "cidade": "Salvador",
+          "url": "https://bahia.ba/",
+          "contato": "Não disponível publicamente",
+          "email": "fabiolima@bahia.ba (Contato DPO)",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Notícias do Governo da Bahia (Secretaria de Comunicação Social - Secom-BA)",
+          "cidade": "Salvador",
+          "url": "https://www.ba.gov.br/noticias",
+          "contato": "Recepção Secom-BA: (71) 3115-9249",
+          "email": "Não disponível publicamente (contato via site oficial da Secom)",
+          "endereco": "3ª Avenida, nº 390, Plataforma IV, 1º andar CAB. CEP 41.745-005 Salvador - Bahia."
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Portal Abrantes",
+          "cidade": "Camaçari",
+          "url": "https://www.portalabrantes.com.br/",
+          "contato": "(71) 99917-5347",
+          "email": "contato@portalabrantes.com.br",
+          "endereco": "Camaçari, BA."
+        },
+        {
+          "nome": "ObservaSSA | Observatório de Bairros de Salvador",
+          "cidade": "Salvador",
+          "url": "https://observatoriobairrossalvador.ufba.br/",
+          "contato": "(71) 3283-5902",
+          "email": "observatoriodebairros@gmail.com",
+          "endereco": "FACULDADE DE ARQUITETURA, RUA CAETANO MOURA, Nº 121 FEDERAÇÃO, SALVADOR - BA."
+        }
+      ]
+    },
+    {
+      "estado": "Ceará",
+      "jornais": [
+        {
+          "nome": "Diário do Nordeste",
+          "cidade": "Fortaleza",
+          "url": "https://diariodonordeste.verdesmares.com.br/",
+          "contato": "Não disponível publicamente (sugerimos buscar por formulário de contato no site)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "O Povo",
+          "cidade": "Fortaleza",
+          "url": "https://www.opovo.com.br/",
+          "contato": "(85) 3254-1010 (Geral), (85) 96052273 (WhatsApp), (85) 99229-1231 (Comercial)",
+          "email": "Não disponível publicamente",
+          "endereco": "Av. Aguanambi, 282 – Joaquim Távora, CEP: 60055-402 - Fortaleza - CE"
+        },
+        {
+          "nome": "Ceará Agora",
+          "cidade": "Fortaleza",
+          "url": "https://cearaagora.com.br/",
+          "contato": "(85) 99273-4353 (WhatsApp para envio de notícias)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "O Estado CE",
+          "cidade": "Fortaleza",
+          "url": "https://oestadoce.com.br/",
+          "contato": "Não disponível publicamente (sugerimos buscar por formulário de contato no site)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Ceará Agora",
+          "cidade": "Fortaleza",
+          "url": "https://cearaagora.com.br/",
+          "contato": "(85) 99273-4353 (WhatsApp para envio de notícias)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Portal Icó News",
+          "cidade": "Icó",
+          "url": "https://www.portaliconews.com.br/",
+          "contato": "Não disponível publicamente (sugerimos utilizar o e-mail ou formulário de contato no site)",
+          "email": "portaliconews@gmail.com",
+          "endereco": "Não disponível publicamente"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Jornal Revista Ceará",
+          "cidade": "Fortaleza",
+          "url": "https://www.revistaceara.com.br/",
+          "contato": "(85) 3224-2195",
+          "email": "contato@revistaceara.com.br",
+          "endereco": "Rua José Bonifácio, 370 - Centro, Fortaleza - CE, CEP: 60055-090"
+        },
+        {
+          "nome": "Blog do Eliomar",
+          "cidade": "Fortaleza",
+          "url": "https://blogdoeliomar.com/",
+          "contato": "Não disponível publicamente (sugerimos utilizar o formulário de contato no site)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Blog Edison Silva",
+          "cidade": "Fortaleza",
+          "url": "https://blogdoedisonsilva.com.br/",
+          "contato": "(85) 98725-7836",
+          "email": "blogedisonsilva@gmail.com",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Blog do Roberto Moreira",
+          "cidade": "Não especificado",
+          "url": "https://www.blogrobertomoreira.com/",
+          "contato": "Não disponível publicamente (sugerimos utilizar o formulário de contato no site)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        }
+      ]
+    },
+    {
+      "estado": "Distrito Federal",
+      "jornais": [
+        {
+          "nome": "Jornal de Brasília",
+          "cidade": "Brasília",
+          "url": "https://jornaldebrasilia.com.br/",
+          "contato": "(61) 3343-8000",
+          "email": "Não disponível publicamente",
+          "endereco": "SIG Quadra 01, Lote 765"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Correio Braziliense",
+          "cidade": "Brasília",
+          "url": "https://www.correiobraziliense.com.br/",
+          "contato": "(61) 3214-1100, (61) 3214-1110, (61) 3214-1314",
+          "email": "Não disponível publicamente",
+          "endereco": "Edifício Edilson Varela, SIG Qd 02 nº 340 - Brasília - DF, CEP: 70.610-901"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Brasil de Fato",
+          "cidade": "Brasília (Redação DF)",
+          "url": "https://www.brasildefato.com.br/",
+          "contato": "(61) 9 8304-0102 (WhatsApp - Redação DF)",
+          "email": "df@brasildefato.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Rádio Corredor",
+          "cidade": "Brasília",
+          "url": "https://radiocorredor.com.br/",
+          "contato": "(61) 98219-8481 (WhatsApp)",
+          "email": "contato@radiocorredor.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "ICL Notícias",
+          "cidade": "Brasília",
+          "url": "https://iclnoticias.com.br/",
+          "contato": "(11) 94172-8439 (WhatsApp - Instituto Conhecimento Liberta)",
+          "email": "redacao@iclnoticias.com.br",
+          "endereco": "Não disponível publicamente"
+        }
+      ]
+    },
+    {
+      "estado": "Espírito Santo",
+      "jornais": [
+        {
+          "nome": "A Gazeta",
+          "cidade": "Vitória",
+          "url": "https://www.agazeta.com.br/",
+          "contato": "(27) 3321-8000",
+          "email": "redacao@redegazeta.com.br",
+          "endereco": "Rua Chafic Murad, 902 – Santa Lúcia, Vitória – ES, 29056-070"
+        },
+        {
+          "nome": "Tribuna Online (Jornal A Tribuna)",
+          "cidade": "Vitória",
+          "url": "https://tribunaonline.com.br/",
+          "contato": "(27) 3331-4000",
+          "email": "atendimento@redetribuna.com.br",
+          "endereco": "Rua Nestor Gomes, 203 – Ilha de Santa Maria, Vitória – ES, 29051-570"
+        },
+        {
+          "nome": "Jornal Fato",
+          "cidade": "Vitória",
+          "url": "https://www.jornalfato.com.br/",
+          "contato": "(27) 3026-6467 / (27) 99895-7171",
+          "email": "jornalfato@jornalfato.com.br",
+          "endereco": "Av. Fernando Ferrari, 1080 - Ed. América Centro Empresarial - Torre Sul, Sala 304 - Mata da Praia, Vitória - ES, 29066-920"
+        },
+        {
+          "nome": "Jornal Metro",
+          "cidade": "Vitória",
+          "url": "https://www.metronews.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "comercial@metronews.com.br",
+          "endereco": "Rua Manoel Salgado, 55 - Jardim da Penha, Vitória - ES, 29060-190"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Folha Vitória",
+          "cidade": "Vitória",
+          "url": "https://www.folhavitoria.com.br/",
+          "contato": "(27) 3334-9300",
+          "email": "marketing@folhavitoria.com.br",
+          "endereco": "Rua Dr. Celso Murta, 240 – Monte Belo, Vitória – ES, 29053-270"
+        },
+        {
+          "nome": "ES360",
+          "cidade": "Vitória",
+          "url": "https://es360.com.br/",
+          "contato": "(27) 3020-0900",
+          "email": "comercial@es360.com.br",
+          "endereco": "Rua José Alexandre Buaiz, 300 - Ed. Work Center - Enseada do Suá, Vitória - ES, 29050-545"
+        },
+        {
+          "nome": "Gazeta Online (Rede Gazeta)",
+          "cidade": "Vitória",
+          "url": "https://www.agazeta.com.br/",
+          "contato": "(27) 3321-8000",
+          "email": "redacao@redegazeta.com.br",
+          "endereco": "Rua Chafic Murad, 902 – Santa Lúcia, Vitória – ES, 29056-070"
+        },
+        {
+          "nome": "Serra Noticiário",
+          "cidade": "Serra",
+          "url": "https://serranoticiario.com.br/",
+          "contato": "(27) 99824-7472",
+          "email": "jornalismo@serranoticiario.com.br",
+          "endereco": "Endereço não disponível publicamente, contato via email/telefone."
+        },
+        {
+          "nome": "Aqui Notícias",
+          "cidade": "Cachoeiro de Itapemirim",
+          "url": "https://aquinoticias.com/",
+          "contato": "(28) 3511-2092",
+          "email": "contato@aquinoticias.com",
+          "endereco": "Rua Brahim Seder, 140 - Ed. Itamaraty, Sala 201 - Centro, Cachoeiro de Itapemirim - ES, 29300-110"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Impresa Livre ES",
+          "cidade": "Vitória",
+          "url": "https://imprensalivre.es/",
+          "contato": "(27) 99709-1735",
+          "email": "imprensalivre.es@gmail.com",
+          "endereco": "Endereço não disponível publicamente, contato via email/telefone."
+        },
+        {
+          "nome": "Blog do Claudio Humberto (Coluna local)",
+          "cidade": "Vitória",
+          "url": "https://www.agazeta.com.br/colunas/claudio-humberto",
+          "contato": "(27) 3321-8000 (Rede Gazeta)",
+          "email": "redacao@redegazeta.com.br",
+          "endereco": "Rua Chafic Murad, 902 – Santa Lúcia, Vitória – ES, 29056-070 (Rede Gazeta)"
+        },
+        {
+          "nome": "Blog do Elimar Côrtes",
+          "cidade": "Vitória",
+          "url": "https://elimar.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "contato@elimar.com.br",
+          "endereco": "Endereço não disponível publicamente, contato via email."
+        }
+      ]
+    },
+    {
+      "estado": "Goiás",
+      "jornais": [
+        {
+          "nome": "Jornal Opção",
+          "cidade": "Goiânia",
+          "url": "https://www.jornalopcao.com.br/",
+          "contato": "(62) 3224-5000",
+          "email": "jornalopcao@jornalopcao.com.br",
+          "endereco": "Rua 20, 275 - Setor Central, Goiânia - GO, 74015-180"
+        },
+        {
+          "nome": "Diário da Manhã",
+          "cidade": "Goiânia",
+          "url": "https://www.dm.com.br/",
+          "contato": "(62) 3267-1000",
+          "email": "comercial@dm.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Jornal O Popular",
+          "cidade": "Goiânia",
+          "url": "https://opopular.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Diário Central",
+          "cidade": "Goiânia",
+          "url": "http://diariocentral.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Diário de Goiás",
+          "cidade": "Goiânia",
+          "url": "https://diariodegoias.com.br/",
+          "contato": "(62) 3251-5491",
+          "email": "comercial@diariodegoias.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Diário de Aparecida",
+          "cidade": "Aparecida de Goiânia",
+          "url": "https://www1.diariodeaparecida.com.br/",
+          "contato": "(62) 99258-9987 / (62) 98169-1255",
+          "email": "Não disponível publicamente",
+          "endereco": "AVENIDA TANNER DE MELO, QD. 10 LT. 1-A – PARQUE INDUSTRIAL DE APARECIDA DE GOIÂNIA – GO"
+        },
+        {
+          "nome": "Mais Goiás",
+          "cidade": "Goiânia",
+          "url": "https://www.maisgoias.com.br/",
+          "contato": "Não encontrado",
+          "email": "contato@maisgoias.com.br",
+          "endereco": "AV. OLINDA C/ AV. PL-3 C/ RUA PLH1 | Qd. H4 LT. 01/03 | PARK LOZANDES | GOIÂNIA- GO - SALA 902"
+        },
+        {
+          "nome": "Portal 6",
+          "cidade": "Anápolis",
+          "url": "https://portal6.com.br/",
+          "contato": "Goiânia: (62) 3251-0958 | Anápolis: (62) 3706-2635",
+          "email": "comercial@portal6.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Diário Goiás em Destaque (Jornal Goiás)",
+          "cidade": "Goiânia",
+          "url": "https://www1.jornalgoias.com.br/",
+          "contato": "(62) 99955-6536 (WhatsApp)",
+          "email": "diariogoiasemdestaque@gmail.com",
+          "endereco": "Não disponível publicamente"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "A Redação",
+          "cidade": "Goiânia",
+          "url": "https://www.aredacao.com.br/",
+          "contato": "(62) 3095-2045",
+          "email": "Não encontrado",
+          "endereco": "Não encontrado"
+        },
+        {
+          "nome": "Goiás 24 Horas",
+          "cidade": "Goiânia",
+          "url": "https://goias24horas.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Opinião Goiás",
+          "cidade": "Goiânia",
+          "url": "https://opiniaogoias.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "opiniaogoias@gmail.com",
+          "endereco": "Não disponível publicamente"
+        }
+      ]
+    },
+    {
+      "estado": "Maranhão",
+      "jornais": [
+        {
+          "nome": "O Imparcial",
+          "cidade": "São Luís",
+          "url": "https://oimparcial.com.br/",
+          "contato": "Assinatura: (98) 99144-5645; Financeiro: (98) 99144-5626; Comercial: (98) 99116-1624; Marketing: (98) 98175-4604; Opec: (98) 99144-5769; Redação: (98) 99144-5641",
+          "email": "Não disponível publicamente no site",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Jornal Pequeno",
+          "cidade": "São Luís",
+          "url": "https://jornalpequeno.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "jornalpequeno@jornalpequeno.com.br",
+          "endereco": "Não disponível publicamente"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Imirante.com",
+          "cidade": "São Luís",
+          "url": "https://imirante.com/",
+          "contato": "(98) 99209-2383 (WhatsApp)",
+          "email": "imirante@mirante.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Maranhão Hoje",
+          "cidade": "São Luís",
+          "url": "https://maranhaohoje.com/",
+          "contato": "(98) 3190-0158 / (98) 99114-1454",
+          "email": "aquilesemir@uol.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Difusora News",
+          "cidade": "São Luís",
+          "url": "https://difusoranews.com/",
+          "contato": "Não disponível publicamente (contato via redes sociais)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Imperatriz Online",
+          "cidade": "Imperatriz",
+          "url": "https://imperatriz.online/",
+          "contato": "(99) 998453-7473 (WhatsApp)",
+          "email": "oi@imperatrizonline.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Blog Maramais",
+          "cidade": "São Luís (referência)",
+          "url": "https://maramais.com.br/",
+          "contato": "(98) 98414-1430 (WhatsApp)",
+          "email": "Não disponível publicamente no site",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "SuaCidade.com",
+          "cidade": "São Luís (referência)",
+          "url": "http://www.suacidade.com/",
+          "contato": "Não disponível publicamente (formulário de contato no site)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        }
+      ]
+    },
+    {
+      "estado": "Mato Grosso",
+      "jornais": [
+        {
+          "nome": "Diário de Cuiabá",
+          "cidade": "Cuiabá",
+          "url": "https://www.diariodecuiaba.com.br/",
+          "contato": "Tel: (65) 2136-8929 (Redação), (65) 2136-8920 (Geral)",
+          "email": "redacao@diariodecuiaba.com.br, comercial@diariodecuiaba.com.br, publicidade@diariodecuiaba.com.br",
+          "endereco": "Centro Comercial Líbano, Avenida República do Líbano, 1620, Térreo, Bairro Alvorada, CEP 78048-200, Cuiabá-MT"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "RDNEWS",
+          "cidade": "Cuiabá",
+          "url": "https://www.rdnews.com.br/",
+          "contato": "Tel: (65) 3637-6104, (65) 3637-8249",
+          "email": "Não especificado publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "MidiaNews",
+          "cidade": "Cuiabá",
+          "url": "https://www.midianews.com.br/",
+          "contato": "Tel: (65) 3027-5770",
+          "email": "Não especificado publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Primeira Página",
+          "cidade": "Cuiabá",
+          "url": "https://primeirapagina.com.br/",
+          "contato": "WhatsApp: (65) 99971-8557 (Canal aberto MT), Tel: (65) 3614-1750 (Escritório MT)",
+          "email": "contato@primeirapagina.com.br",
+          "endereco": "Não disponível publicamente um endereço completo"
+        },
+        {
+          "nome": "VGN Notícias",
+          "cidade": "Várzea Grande",
+          "url": "https://www.vgnoticias.com.br/",
+          "contato": "WhatsApp: (65) 99957-5760",
+          "email": "Não especificado publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "PNB Online",
+          "cidade": "Não especificado publicamente",
+          "url": "https://pnbonline.com.br/",
+          "contato": "Tel: (65) 3359-0478, Cel/WhatsApp: (65) 98102-6059",
+          "email": "contato@pnbonline.com.br, comercial@pnbonline.com.br",
+          "endereco": "Não disponível publicamente"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Sindicato dos Jornalistas de Mato Grosso (Sindjor MT)",
+          "cidade": "Cuiabá",
+          "url": "https://sindjormt.org.br/",
+          "contato": "Tel: (65) 3624-1065",
+          "email": "sindjor@sindjormt.org.br",
+          "endereco": "Cuiabá - MT (Endereço completo não disponível publicamente no site)"
+        },
+        {
+          "nome": "ICL Notícias (Plataforma de Jornalismo Independente)",
+          "cidade": "Nacional (não específico de MT)",
+          "url": "https://iclnoticias.com.br/",
+          "contato": "Formulário de contato no site",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        }
+      ]
+    },
+    {
+      "estado": "Mato Grosso do Sul",
+      "jornais": [
+        {
+          "nome": "Campo Grande News",
+          "cidade": "Campo Grande",
+          "url": "https://www.campograndenews.com.br/",
+          "contato": "(67) 3316-7200, (67) 99669-9563 (WhatsApp)",
+          "email": "redacao@campograndenews.com.br",
+          "endereco": "Rua Antônio Maria Coelho, 4681 - Vivenda do Bosque, Campo Grande - MS, CEP 79021-170"
+        },
+        {
+          "nome": "Correio do Estado",
+          "cidade": "Campo Grande",
+          "url": "https://correiodoestado.com.br/",
+          "contato": "(67) 3323-6090, (67) 9.9922-6705 (WhatsApp)",
+          "email": "assinaturas@correiodoestado.com.br",
+          "endereco": "Rua 26 de Agosto, 284, Centro, Campo Grande - MS"
+        },
+        {
+          "nome": "Folha MS",
+          "cidade": "Corumbá",
+          "url": "https://folhams.com.br/",
+          "contato": "(67) 99651-6148 (Erik Silva - Diretor de Jornalismo), (67) 9901-2120 (Weber Reis Santos – Diretor Comercial)",
+          "email": "folhamsaovivo@gmail.com",
+          "endereco": "Rua República do Paraguai, 35 Apto 01, Centro, Corumbá - MS"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Agência de Notícias do Governo de Mato Grosso do Sul",
+          "cidade": "Campo Grande (Governo do Estado)",
+          "url": "https://agenciadenoticias.ms.gov.br/",
+          "contato": "Informações de contato direto para a agência não são publicamente listadas como um veículo de imprensa tradicional. Para contato com a comunicação do Governo de MS, consulte o portal principal do estado (ms.gov.br).",
+          "email": "Não disponível publicamente para a agência como entidade separada.",
+          "endereco": "Não disponível publicamente para a agência como entidade separada."
+        },
+        {
+          "nome": "Jornal Midiamax",
+          "cidade": "Campo Grande",
+          "url": "https://midiamax.uol.com.br/",
+          "contato": "+55(67) 3312-7400 (Redação), (67) 99207-4330 (WhatsApp - Redação), (67) 3324-7003 (Comercial)",
+          "email": "redacao@midiamax.com.br",
+          "endereco": "Endereço físico não disponível publicamente no site ou em pesquisas."
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Primeira Página MS",
+          "cidade": "Campo Grande",
+          "url": "https://primeirapagina.com.br/mato-grosso-do-sul/",
+          "contato": "(67) 99276-8889 (WhatsApp)",
+          "email": "Não disponível publicamente, primariamente via formulário de contato no site.",
+          "endereco": "Endereço físico não disponível publicamente."
+        },
+        {
+          "nome": "MS Todo Dia",
+          "cidade": "Campo Grande",
+          "url": "https://www.mstododia.com.br/",
+          "contato": "(67) 99624-6412 (WhatsApp)",
+          "email": "mstododia@mstododia.com.br",
+          "endereco": "Endereço físico não disponível publicamente."
+        },
+        {
+          "nome": "Pantanal News",
+          "cidade": "Aquidauana / Corumbá",
+          "url": "https://www.pantanalnews.com.br/",
+          "contato": "(67) 3241-1186 / (67) 3231-5085 (Fixo), (67) 99981-8079 (WhatsApp)",
+          "email": "redacao@pantanalnews.com.br, comercial@pantanalnews.com.br",
+          "endereco": "**Aquidauana:** Rua Estevão Alves Corrêa, 1025, Centro, Aquidauana - MS | **Corumbá:** Rua Sete de Setembro, 831, Centro, Corumbá - MS"
+        }
+      ]
+    },
+    {
+      "estado": "Minas Gerais",
+      "jornais": [
+        {
+          "nome": "Estado de Minas",
+          "cidade": "Belo Horizonte",
+          "url": "https://www.em.com.br/",
+          "contato": "Telefone: (31) 3263-5800 (Atendimento ao Assinante) | WhatsApp Assinante: (31) 9.9402-0234 | WhatsApp Redação: (31) 98792-1480",
+          "email": "Não disponível publicamente",
+          "endereco": "Av. Getúlio Vargas, 291 - 2º andar, Funcionários - Belo Horizonte - MG, CEP: 30112-020"
+        },
+        {
+          "nome": "Jornal Minas Gerais",
+          "cidade": "Belo Horizonte",
+          "url": "https://www.jornalminasgerais.mg.gov.br/",
+          "contato": "Telefone: (31) 3916-7075 | WhatsApp: (31) 3915-0058",
+          "email": "Não disponível publicamente",
+          "endereco": "Cidade Administrativa Presidente Tancredo Neves, Rodovia Papa João Paulo II, 4000, Edifício Gerais. 1º andar, Bairro Serra Verde - BH / MG, CEP: 31630-901"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Portal UAI",
+          "cidade": "Belo Horizonte",
+          "url": "https://www.uai.com.br/",
+          "contato": "Telefone: (31) 3263-5800 (mesmo contato do Estado de Minas, fazem parte do mesmo grupo)",
+          "email": "Não disponível publicamente",
+          "endereco": "Av. Getúlio Vargas, 291 - 2º andar, Funcionários - Belo Horizonte - MG, CEP: 30112-020"
+        },
+        {
+          "nome": "R7 Minas Gerais",
+          "cidade": "Belo Horizonte",
+          "url": "https://noticias.r7.com/minas-gerais/",
+          "contato": "Contato principal via formulário no site ou através da Record TV Minas. Ex: Rede Mais (afiliada Record TV em MG): (35) 3690-1050",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente para a redação principal do R7 Minas Gerais. Afiliadas podem ter endereços específicos."
+        },
+        {
+          "nome": "Agência Minas Gerais",
+          "cidade": "Belo Horizonte",
+          "url": "https://www.agenciaminas.mg.gov.br/",
+          "contato": "Contato via 'Fale Conosco' no site. Telefone não disponível publicamente.",
+          "email": "Não disponível publicamente",
+          "endereco": "SECOM – Secretaria de Estado de Comunicação Social, Cidade Administrativa Presidente Tancredo Neves, Rodovia Papa João Paulo II, 3777, Prédio Tiradentes, 3º andar, Bairro Serra Verde - Belo Horizonte (MG), CEP: 31630-903"
+        },
+        {
+          "nome": "BHAZ",
+          "cidade": "Belo Horizonte",
+          "url": "https://bhaz.com.br/",
+          "contato": "Contato principal via formulário no site. Telefone não disponível publicamente.",
+          "email": "Não disponível publicamente",
+          "endereco": "R. Aiuruoca, 22 – São Paulo, Belo Horizonte – MG, 31910-130"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Moon BH",
+          "cidade": "Belo Horizonte",
+          "url": "https://moonbh.com.br/",
+          "contato": "Não disponível publicamente (apenas e-mail)",
+          "email": "contato@moonbh.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Brasil de Fato (Cobertura MG)",
+          "cidade": "Nacional (com foco em MG)",
+          "url": "https://www.brasildefato.com.br/",
+          "contato": "Contato principal via formulário no site. Não possui contato telefônico ou endereço físico exclusivo para Minas Gerais disponível publicamente.",
+          "email": "Não disponível publicamente para a redação de MG",
+          "endereco": "Não possui endereço físico exclusivo para Minas Gerais disponível publicamente."
+        },
+        {
+          "nome": "The Intercept Brasil (Cobertura Nacional)",
+          "cidade": "Nacional (base no Rio de Janeiro)",
+          "url": "https://theintercept.com.br/",
+          "contato": "WhatsApp/Signal: (21) 97677-8663",
+          "email": "Não disponível publicamente",
+          "endereco": "Caixa Postal 56.949, AGF Rio Sul – Rua Lauro Müller, 116 – Piso/G2, QG2M02, Botafogo, Rio de Janeiro, RJ, CEP: 22290-972"
+        }
+      ]
+    },
+    {
+      "estado": "Pará",
+      "jornais": [
+        {
+          "nome": "Diário do Pará",
+          "cidade": "Belém",
+          "url": "https://diariodopara.com.br/",
+          "contato": "(91) 3084-0209, (91) 3084-0210, (91) 3084-0211",
+          "email": "contato@diariodopara.com.br",
+          "endereco": "Rua Gaspar Viana, 773/78 Galpão 2, Bairro: Reduto – CEP: 63.053-090"
+        },
+        {
+          "nome": "O Liberal",
+          "cidade": "Belém",
+          "url": "https://www.oliberal.com/",
+          "contato": "(91) 3216-1011",
+          "email": "assinatura@oliberal.com",
+          "endereco": "Av. Rômulo Maiorana, 2473, Belém - PA, CEP 66.093-000"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "DOL - Diário Online",
+          "cidade": "Belém",
+          "url": "https://dol.com.br/",
+          "contato": "(91) 3084-0209 / (91) 3084-0210 / (91) 3084-0211 (WhatsApp para denúncias: 91 98412-6477)",
+          "email": "contato@dol.com.br",
+          "endereco": "Rua Gaspar Viana, 773/78 Galpão 2, Bairro: Reduto - Cep: 63.053-090"
+        },
+        {
+          "nome": "Roma News",
+          "cidade": "Belém",
+          "url": "https://www.romanews.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "contato@romanews.com.br",
+          "endereco": "Não disponível publicamente"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Bacana News",
+          "cidade": "Belém",
+          "url": "https://bacananews.com.br/",
+          "contato": "Não disponível publicamente (Redes sociais disponíveis no site)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Dedé Mesquita",
+          "cidade": "Belém",
+          "url": "https://dedemesquita.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        }
+      ]
+    },
+    {
+      "estado": "Paraíba",
+      "jornais": [
+        {
+          "nome": "A União - Jornal, Editora e Gráfica",
+          "cidade": "João Pessoa",
+          "url": "https://auniao.pb.gov.br/",
+          "contato": "(83) 3218.6544 (Comercial), (83) 3218-6518 (Assinatura), (83) 991177042 (WhatsApp Assinatura), (83) 3218.6525 / (83) 98856.2679 (Orçamento/Publicidade), (83) 3218-6539 (Editorial), (83) 99988.2082 (Publicidade), (83) 99311-7684 / (83) 99890-6022 (Diário Oficial). Contato geral da EPC (Empresa Paraibana de Comunicação, da qual A União faz parte): (83) 3218.7923",
+          "email": "circulacao@epc.pb.gov.br (Circulação). Email geral não disponível publicamente.",
+          "endereco": "Av. Chesf - Distrito Industrial, 451. João Pessoa - PB. CEP 58082-010. Endereço da EPC: Rodovia BR-101, Km 3 - Distrito Industrial, 58082-010 JOÃO PESSOA/PB"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Jornal da Paraíba",
+          "cidade": "João Pessoa / Campina Grande",
+          "url": "https://jornaldaparaiba.com.br/",
+          "contato": "(83) 2106.1892 (João Pessoa), (83) 3315-3204 (Campina Grande)",
+          "email": "jornalismo@jornaldaparaiba.com.br, financeiro@jornaldaparaiba.com.br",
+          "endereco": "Não disponível publicamente."
+        },
+        {
+          "nome": "Portal Correio",
+          "cidade": "João Pessoa",
+          "url": "https://portalcorreio.com.br/",
+          "contato": "(83) 3216-5136 (Comercial)",
+          "email": "comercial@sistemacorreio.com.br",
+          "endereco": "Não disponível publicamente."
+        },
+        {
+          "nome": "ClickPB",
+          "cidade": "João Pessoa",
+          "url": "https://www.clickpb.com.br/",
+          "contato": "Não disponível publicamente.",
+          "email": "Não disponível publicamente.",
+          "endereco": "Não disponível publicamente."
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Fonte 83",
+          "cidade": "João Pessoa",
+          "url": "https://fonte83.com.br/",
+          "contato": "+55 (83) 3507-2281",
+          "email": "Não disponível publicamente (apenas formulário de contato).",
+          "endereco": "Rua Raimundo Marques Pordeus, nº 292 - Pedro Gondim - João Pessoa - 58031-200"
+        },
+        {
+          "nome": "Polêmica Paraíba",
+          "cidade": "João Pessoa",
+          "url": "https://www.polemicaparaiba.com.br/",
+          "contato": "Não disponível publicamente.",
+          "email": "institucional@polemicaparaiba.com.br, juridico@polemicaparaiba.com.br",
+          "endereco": "Não disponível publicamente."
+        },
+        {
+          "nome": "MIDIACOM PB",
+          "cidade": "Campina Grande",
+          "url": "https://www.midiacompb.org.br/",
+          "contato": "83 3322 5290",
+          "email": "secretaria@midiacompb.org.br",
+          "endereco": "Rua Luís de Melo, 220, 2º andar, salas 203/204, Prata - Campina Grande PB"
+        }
+      ]
+    },
+    {
+      "estado": "Paraná",
+      "jornais": [
+        {
+          "nome": "Gazeta do Povo",
+          "cidade": "Curitiba",
+          "url": "https://www.gazetadopovo.com.br/",
+          "contato": "Telefone: +55 (41) 3321-5555 (Central do Assinante), +55 (41) 3321-5000 (Geral)",
+          "email": "Não disponível publicamente",
+          "endereco": "Avenida Victor Ferreira do Amaral, 306, Tarumã, Curitiba - PR, 82530-230"
+        },
+        {
+          "nome": "Jornal Plural",
+          "cidade": "Curitiba",
+          "url": "https://www.plural.jor.br/",
+          "contato": "Não disponível publicamente (contato via formulário e e-mails específicos no site)",
+          "email": "Não disponível publicamente",
+          "endereco": "Rua Conselheiro Laurindo, 825, sala 411, Centro, Curitiba - PR"
+        },
+        {
+          "nome": "Tribuna PR - Paraná Online",
+          "cidade": "Curitiba",
+          "url": "https://www.tribunapr.com.br/",
+          "contato": "Não disponível publicamente (contato via formulário no site)",
+          "email": "Não disponível publicamente",
+          "endereco": "Avenida Victor Ferreira do Amaral, 306, Tarumã, Curitiba - PR, 82530-230"
+        },
+        {
+          "nome": "Folha do Litoral News",
+          "cidade": "Paranaguá",
+          "url": "https://folhadolitoral.com.br/",
+          "contato": "Telefone: (41) 3189-7500",
+          "email": "Não disponível publicamente",
+          "endereco": "Rua Rodrigues Alves, 747, Centro Histórico, Paranaguá/PR, 83203-170"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "CGN",
+          "cidade": "Cascavel",
+          "url": "https://cgn.inf.br/",
+          "contato": "Telefone: (45) 9.9969-4530",
+          "email": "Não disponível publicamente",
+          "endereco": "Avenida Piquiri, 17, Cascavel - PR"
+        },
+        {
+          "nome": "Massa.com.br (Grupo Massa)",
+          "cidade": "Curitiba (e regiões)",
+          "url": "https://massa.com.br/",
+          "contato": "Não disponível publicamente (contato via formulário no site)",
+          "email": "Não disponível publicamente",
+          "endereco": "Rua Antonio Parolin Junior, 355, Parolin, Curitiba - PR, 80220-350"
+        },
+        {
+          "nome": "RIC.com.br (Grupo RIC)",
+          "cidade": "Curitiba (e regiões)",
+          "url": "https://ric.com.br/",
+          "contato": "Telefone: (41) 3331-6100 (Curitiba) / (44) 3218-7200 (Maringá) / (43) 3376-0100 (Londrina) / (45) 3278-5051 (Toledo) / (45) 3219-3650 (Cascavel) / (45) 3572-6780 (Foz do Iguaçu)",
+          "email": "Não disponível publicamente",
+          "endereco": "Rua Amauri Lange Silvério, 450, Pilarzinho, Curitiba - PR, 82120-000 (Matriz Curitiba)"
+        },
+        {
+          "nome": "Agência Estadual de Notícias (AEN)",
+          "cidade": "Curitiba",
+          "url": "https://www.aen.pr.gov.br/",
+          "contato": "Telefones: (41) 3350-2639, (41) 3350-2775, (41) 3350-2653 (Geral)",
+          "email": "editor@secom.pr.gov.br",
+          "endereco": "Palácio Iguaçu, Praça Nossa Senhora de Salette, Centro Cívico, Curitiba - PR, 80530-909"
+        },
+        {
+          "nome": "Banda B",
+          "cidade": "Curitiba",
+          "url": "https://www.bandab.com.br/",
+          "contato": "Telefone: (41) 3315-0550 (Geral) / WhatsApp Studio: (41) 98407-0550 / WhatsApp Redação: (41) 99111-1417",
+          "email": "Não disponível publicamente",
+          "endereco": "Rua Antonio Costa, 529, Curitiba - PR"
+        },
+        {
+          "nome": "Bem Paraná",
+          "cidade": "Curitiba",
+          "url": "https://www.bemparana.com.br/",
+          "contato": "Não disponível publicamente (contato via formulário no site)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Blog Politicamente",
+          "cidade": "Curitiba",
+          "url": "https://blogpoliticamente.com.br/",
+          "contato": "Não disponível publicamente (contato via formulário no site)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Brasil de Fato",
+          "cidade": "Nacional (com cobertura no Paraná)",
+          "url": "https://www.brasildefato.com.br/",
+          "contato": "Não disponível publicamente (contato via formulário no site, sem telefone/endereço específico para o Paraná)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        }
+      ]
+    },
+    {
+      "estado": "Pernambuco",
+      "jornais": [
+        {
+          "nome": "Diário de Pernambuco",
+          "cidade": "Recife",
+          "url": "https://www.diariodepernambuco.com.br/",
+          "contato": "Telefones: +55 81 3320-2020, +55 81 9 9217-0191 (WhatsApp DP)",
+          "email": "relacionamento@diariodepernambuco.com.br",
+          "endereco": "Endereço físico não encontrado em pesquisas públicas."
+        },
+        {
+          "nome": "Folha PE",
+          "cidade": "Recife",
+          "url": "https://www.folhape.com.br/",
+          "contato": "Telefones para setores específicos: DPO: (81) 3425-5881; Editorial: (81) 3425-5860; Portal: (81) 3425-5869 / 3425-5883 / 99433-2953; Rádio Folha: (81) 3425-5872; Atendimento ao Cliente: (81) 3425.5804 / 994827919.",
+          "email": "Diversos e-mails por setor (não há um geral público claro, veja o site para detalhes).",
+          "endereco": "Endereço físico não encontrado em pesquisas públicas."
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Notícias R7 Pernambuco",
+          "cidade": "Recife (afiliada Record TV Pernambuco / TV Clube)",
+          "url": "https://noticias.r7.com/pernambuco/",
+          "contato": "Detalhes de contato específicos para a filial de Pernambuco não foram encontrados publicamente. O R7 é um portal nacional.",
+          "email": "Não encontrado publicamente para a filial de Pernambuco.",
+          "endereco": "Endereço físico específico para a filial de Pernambuco não encontrado publicamente."
+        },
+        {
+          "nome": "Portal Recife News",
+          "cidade": "Recife",
+          "url": "https://portalrecifenews.com/",
+          "contato": "Disponível via redes sociais (Instagram, Facebook, Twitter) no site.",
+          "email": "Não encontrado publicamente.",
+          "endereco": "Endereço físico não encontrado em pesquisas públicas."
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Blog do Carlos Britto",
+          "cidade": "Petrolina",
+          "url": "https://www.carlosbritto.com/",
+          "contato": "WhatsApp: (87) 99646 1045; Disponível via redes sociais (Instagram, Facebook, Twitter) no site.",
+          "email": "contato@carlosbritto.com",
+          "endereco": "Endereço físico não é publicamente disponível para blogs independentes."
+        },
+        {
+          "nome": "Blog do Silva Lima",
+          "cidade": "Não especificada, mas focado em Pernambuco.",
+          "url": "https://blogdosilvalima.com.br/",
+          "contato": "Não encontrado publicamente.",
+          "email": "Não encontrado publicamente.",
+          "endereco": "Endereço físico não é publicamente disponível para blogs independentes."
+        }
+      ]
+    },
+    {
+      "estado": "Piauí",
+      "jornais": [
+        {
+          "nome": "Jornal Diário do Povo",
+          "cidade": "Teresina",
+          "url": "https://diario.dopovo.com.br/",
+          "contato": "(86) 3218-1060 | (86) 3218-1061",
+          "email": "redacao@dopovo.com.br",
+          "endereco": "Av. João XXIII, 1370 - Cristo Rei, Teresina - PI, 64055-000"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "CidadeVerde.com",
+          "cidade": "Teresina",
+          "url": "https://cidadeverde.com/",
+          "contato": "(86) 3131-1800",
+          "email": "jornalismo@cidadeverde.com",
+          "endereco": "Av. Jornalista Freitas Neto, 3280 - Mocambinho, Teresina - PI, 64016-160"
+        },
+        {
+          "nome": "GP1",
+          "cidade": "Teresina",
+          "url": "https://www.gp1.com.br/",
+          "contato": "(86) 3218-4500",
+          "email": "contato@gp1.com.br",
+          "endereco": "Rua Professor Bem, 2035 - Marquês de Paranaguá, Teresina - PI, 64002-290"
+        },
+        {
+          "nome": "Portal RiachaoNet",
+          "cidade": "Riachão",
+          "url": "https://www.riachaonet.com.br/portal/",
+          "contato": "(86) 99933-2559",
+          "email": "contato@riachaonet.com.br",
+          "endereco": "Rua Projetada, S/N, Centro, Riachão - PI (Próximo à Prefeitura)"
+        },
+        {
+          "nome": "OitoMeia",
+          "cidade": "Teresina",
+          "url": "https://www.oitomeia.com.br/",
+          "contato": "(86) 99969-9807",
+          "email": "contato@oitomeia.com.br",
+          "endereco": "Não informado no site"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Joana Suarez | Jornalista Independente",
+          "cidade": "Não especificada (atuação regional)",
+          "url": "https://www.joanasuarez.org/",
+          "contato": "Não informado no site (contato via formulário)",
+          "email": "contato@joanasuarez.org",
+          "endereco": "Não informado no site"
+        },
+        {
+          "nome": "COAR Notícias",
+          "cidade": "Não especificada (atuação regional)",
+          "url": "https://www.instagram.com/coarnoticias/",
+          "contato": "Via Mensagem Direta (Instagram)",
+          "email": "Não encontrado",
+          "endereco": "Não encontrado"
+        },
+        {
+          "nome": "Malamanhadas Podcast",
+          "cidade": "Não especificada",
+          "url": "https://www.malamanhadas.com/",
+          "contato": "Via Mensagem Direta (Instagram)",
+          "email": "Não encontrado",
+          "endereco": "Não encontrado"
+        },
+        {
+          "nome": "Ocorre Diário",
+          "cidade": "Não especificada (atuação regional)",
+          "url": "https://www.instagram.com/ocorrediario/",
+          "contato": "Via Mensagem Direta (Instagram)",
+          "email": "Não encontrado",
+          "endereco": "Não encontrado"
+        }
+      ]
+    },
+    {
+      "estado": "Rio de Janeiro",
+      "jornais": [
+        {
+          "nome": "Jornal do Brasil",
+          "cidade": "Rio de Janeiro",
+          "url": "https://www.jb.com.br/",
+          "email": "redacao@jb.com.br",
+          "telefones_adicionais": [],
+          "endereco": "Não disponível publicamente de forma direta."
+        },
+        {
+          "nome": "Diário do Vale",
+          "cidade": "Volta Redonda",
+          "url": "https://diariodovale.com.br/",
+          "email": "redacao@diariodovale.com.br",
+          "telefones_adicionais": [
+            "(24) 99926-5051 (Jornalismo)",
+            "(24) 99974-0101 (Comercial)",
+            "(24) 99208-6681 (Diário Delas)"
+          ],
+          "endereco": "Av. Pastor César Dacorso Filho nº 57 – Vila Mury – Volta Redonda – RJ – Cep 27281-670"
+        },
+        {
+          "nome": "A Cidade - Portal da Costa Verde",
+          "cidade": "Angra dos Reis",
+          "url": "https://acidadecostaverde.com.br/",
+          "email": "redacao@acidadeangra.com.br",
+          "telefones_adicionais": [
+            "(24) 3365-5327",
+            "(24) 99837-1690 (WhatsApp)"
+          ],
+          "endereco": "Av. José Elias Rabha, nº 280 – Loja 120 – 2º Piso – Angra Shopping, Parque das Palmeiras – Angra dos Reis – RJ, CEP: 23.906-510"
+        },
+        {
+          "nome": "A Voz da Cidade",
+          "cidade": "Barra Mansa",
+          "url": "https://avozdacidade.com/wp/",
+          "email": "redacao@avozdacidade.com",
+          "telefones_adicionais": [
+            "(24) 99974-0101"
+          ],
+          "endereco": "Rua Michel Wardini, nº 100, Centro Barra Mansa / RJ. CEP: 27330-100"
+        },
+        {
+          "nome": "Diário do Rio",
+          "cidade": "Centro, Rio de Janeiro",
+          "url": "https://diariodorio.com/",
+          "email": "redacao@diariodorio.com",
+          "telefone": "(21) 2507-8596",
+          "endereco": "Travessa do Comércio, 2 a 6 - Arco do Teles. Centro, Rio de Janeiro – RJ CEP: 20091-000"
+        },
+        {
+          "nome": "O Globo",
+          "cidade": "Rio de Janeiro",
+          "url": "https://oglobo.globo.com/",
+          "email": "publicidade@edglobo.com.br",
+          "telefones_adicionais": [
+            "4003-9393 (Atendimento ao Cliente e Assinaturas - Editora Globo)",
+            "11 4003-9393 (WhatsApp - Atendimento ao Cliente e Assinaturas)",
+            "11 3767-7226 (Vendas Corporativas - Editora Globo)"
+          ],
+          "endereco": "Rua Lopes Quintas, 303 Jardim Botânico - Rio de Janeiro / RJ"
+        },
+        {
+          "nome": "O Dia",
+          "cidade": "Rio de Janeiro",
+          "url": "https://odia.ig.com.br/",
+          "telefones_adicionais": [
+            "(21) 2222-8600",
+            "(21) 2222-8650",
+            "(21) 2222-8651",
+            "(21) 98921-4985 (WhatsApp)"
+          ],
+          "endereco": "Não disponível publicamente de forma direta."
+        },
+        {
+          "nome": "Extra",
+          "cidade": "Rio de Janeiro",
+          "url": "https://extra.globo.com/",
+          "telefone": "(21) 2534-5500 (Infoglobo Central de Relacionamento)",
+          "endereco": "Rua Lopes Quintas, 303 Jardim Botânico - Rio de Janeiro / RJ (Endereço corporativo da Globo, provável para o Extra)"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "G1 Rio de Janeiro",
+          "cidade": "Rio de Janeiro",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/",
+          "contato": "Centralizado com o grupo Globo. Não há telefone ou endereço específico para o G1 Rio de Janeiro disponível publicamente."
+        },
+        {
+          "nome": "Brasil de Fato RJ",
+          "cidade": "Rio de Janeiro",
+          "url": "https://www.brasildefato.com.br/",
+          "contato": "Verifique a página de contato geral do Brasil de Fato para informações mais amplas, pois não há telefone ou endereço específico para a editoria do Rio de Janeiro disponível publicamente."
+        },
+        {
+          "nome": "Nexo Jornal",
+          "cidade": "Nacional (com cobertura RJ)",
+          "url": "https://www.nexojornal.com.br/",
+          "contato": "Principalmente via formulário online na página de contato. Não há telefone ou endereço físico disponível publicamente."
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Tempo Real RJ",
+          "cidade": "Rio de Janeiro",
+          "url": "https://temporealrj.com/",
+          "whatsapp": "+5521971351027",
+          "contato": "Principalmente via WhatsApp para sugestões/críticas. Não há telefone ou endereço físico disponível publicamente."
+        },
+        {
+          "nome": "Agenda do Poder",
+          "cidade": "Rio de Janeiro",
+          "url": "https://agendadopoder.com.br/",
+          "contato": "Principalmente via mídias sociais e canal de WhatsApp. Não há telefone ou endereço físico disponível publicamente."
+        }
+      ]
+    },
+    {
+      "estado": "Rio Grande do Norte",
+      "jornais": [
+        {
+          "nome": "A Tribuna do Norte",
+          "cidade": "Natal",
+          "url": "https://www.tribunadonorte.com.br/",
+          "contato": "(84) 3215-9500 (Geral) / (84) 3215-9514 (Assinatura) / (84) 3215-9577 (Classificados)",
+          "email": "assinatura@tribunadonorte.com.br",
+          "endereco": "Avenida Engenheiro Roberto Freire, 2696 - Capim Macio, Natal - RN, 59082-900 (Endereço da sede)"
+        },
+        {
+          "nome": "Diário do RN",
+          "cidade": "Natal",
+          "url": "https://www.diariodorn.com.br/",
+          "contato": "(84) 3026-6180",
+          "email": "comercial@diariodorn.com.br",
+          "endereco": "Rua Raimundo Chaves, 2038 - Candelária, Natal - RN, 59066-020"
+        },
+        {
+          "nome": "Agora RN",
+          "cidade": "Natal",
+          "url": "https://agorarn.com.br/",
+          "contato": "(84) 3221-5079",
+          "email": "contato@agorarn.com.br",
+          "endereco": "Rua Coronel Auris Coelho, 222, Lagoa Nova, Natal - RN, 59075-050"
+        },
+        {
+          "nome": "Jornal O Mossoroense",
+          "cidade": "Mossoró",
+          "url": "https://www.omossoroense.com.br/",
+          "contato": "Não disponível publicamente no site",
+          "email": "Não disponível publicamente no site",
+          "endereco": "Não disponível publicamente no site"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Portal N10",
+          "cidade": "Natal",
+          "url": "https://portaln10.com.br/",
+          "contato": "(84) 99849-0652 / (84) 98782-9694 / (84) 99806-0303",
+          "email": "jornalismo@portaln10.com.br",
+          "endereco": "Não disponível publicamente no site"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Blog do Barreto",
+          "cidade": "Mossoró",
+          "url": "https://blogdobarreto.com.br/",
+          "contato": "Formulário de contato no site",
+          "email": "Não disponível publicamente no site",
+          "endereco": "Não disponível publicamente no site"
+        },
+        {
+          "nome": "Blog do Ismael Medeiros",
+          "cidade": "Caicó",
+          "url": "https://ismaelmedeiros.com.br/",
+          "contato": "(84) 99611-3067",
+          "email": "blogismaelmedeiros@gmail.com",
+          "endereco": "Não disponível publicamente no site"
+        }
+      ]
+    },
+    {
+      "estado": "Rio Grande do Sul",
+      "jornais": [
+        {
+          "nome": "Zero Hora (GZH)",
+          "cidade": "Porto Alegre",
+          "url": "https://gauchazh.clicrbs.com.br/",
+          "contato": "(51) 3218-4900 (Grupo RBS / Zero Hora)",
+          "email": "Não disponível publicamente para contato geral",
+          "endereco": "Av. Ipiranga, 1075 | Azenha | CEP: 90169-900 | Porto Alegre - RS"
+        },
+        {
+          "nome": "Diário Gaúcho (GZH)",
+          "cidade": "Porto Alegre",
+          "url": "https://gauchazh.clicrbs.com.br/",
+          "contato": "(51) 3218-1600 (Grupo RBS / Diário Gaúcho)",
+          "email": "Não disponível publicamente para contato geral",
+          "endereco": "Av. Ipiranga, 1075 | Azenha | CEP: 90160-093 | Porto Alegre - RS"
+        },
+        {
+          "nome": "Pioneiro",
+          "cidade": "Caxias do Sul",
+          "url": "https://gauchazh.clicrbs.com.br/pioneiro/",
+          "contato": "(54) 3218-1394, (54) 3218-1200 (Grupo RBS / Pioneiro)",
+          "email": "Não disponível publicamente para contato geral",
+          "endereco": "Rua Jacob Luchesi, 2374 | Santa Catarina | CEP: 95320-000 | Caxias do Sul - RS"
+        },
+        {
+          "nome": "Correio do Povo",
+          "cidade": "Porto Alegre",
+          "url": "https://www.correiodopovo.com.br/",
+          "contato": "Não disponível publicamente para contato geral",
+          "email": "faleconosco@correiodopovo.com.br (para contato comercial/geral), redacao@correiodopovo.com.br (redação)",
+          "endereco": "Não disponível publicamente para contato geral"
+        },
+        {
+          "nome": "Jornal O Sul",
+          "cidade": "Porto Alegre",
+          "url": "https://www.osul.com.br/",
+          "contato": "(51) 3218-2651",
+          "email": "Não disponível publicamente para contato geral",
+          "endereco": "Rua Orfanotrófio, 711 - Alto Teresópolis, Porto Alegre/RS | CEP: 90840-440"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "clicRBS",
+          "cidade": "Porto Alegre",
+          "url": "https://www.clicrbs.com.br/",
+          "contato": "(51) 3218-4300 (Grupo RBS)",
+          "email": "Não disponível publicamente para contato geral",
+          "endereco": "Av. Erico Verissimo, 400 | Azenha - Porto Alegre – RS | CEP: 90160-180"
+        },
+        {
+          "nome": "Portal da Folha",
+          "cidade": "Canela",
+          "url": "https://portaldafolha.com.br/",
+          "contato": "(54) 8429-7910 (WhatsApp), (54) 9677-8570, (54) 8101-7246, (54) 9201-4513",
+          "email": "contato@portaldafolha.com.br",
+          "endereco": "Rua Sete de Setembro, 590 – Centro – Canela/RS"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Sul 21",
+          "cidade": "Porto Alegre",
+          "url": "https://sul21.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "redacao@sul21.com.br (Redação), comercial@sul21.com.br (Comercial)",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Brasil de Fato RS",
+          "cidade": "Porto Alegre (Escritório Regional)",
+          "url": "https://www.brasildefato.com.br/",
+          "contato": "Não disponível publicamente para o escritório regional",
+          "email": "Não disponível publicamente. Contato via formulário no site principal, com opção de seleção para 'Rio Grande do Sul'.",
+          "endereco": "Não disponível publicamente para o escritório regional"
+        }
+      ]
+    },
+    {
+      "estado": "Rondônia",
+      "jornais": [
+        {
+          "nome": "Jornal Rondôniavip",
+          "cidade": "Ariquemes",
+          "url": "https://www.jornalrondoniavip.com.br/",
+          "email": "jornalismo@jornalrondoniavip.com.br"
+        },
+        {
+          "nome": "Diário da Amazônia",
+          "abrangencia": "Rondônia - geral",
+          "url": "https://diariodaamazonia.com.br/",
+          "contato": "(69) 2182.3434",
+          "email": "contato@diariodaamazonia.com.br"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Rondoniaovivo.com",
+          "cidade": "Porto Velho",
+          "url": "https://rondoniaovivo.com/",
+          "contato": "(69) 99981-5823 (Geral), (69) 99984-8903 (Redação)",
+          "email": "redacao@rondoniaovivo.com, comercial@rondoniaovivo.com"
+        },
+        {
+          "nome": "O Observador",
+          "abrangencia": "Rondônia - geral",
+          "url": "https://www.oobservador.com/",
+          "contato": "Formulário de contato disponível",
+          "email": "jornaloobservador@gmail.com"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Em Rondônia",
+          "cidade": "Porto Velho",
+          "url": "https://www.emrondonia.com/",
+          "contato": "(69) 99967-8787",
+          "email": "emrondonia@gmail.com",
+          "observacao": "Links para redes sociais estão disponíveis"
+        },
+        {
+          "nome": "IOT Rondônia Blog",
+          "abrangencia": "Rondônia - geral",
+          "url": "https://iotrondonia.com.br/blog/",
+          "contato": "(69) 9.9232-4176",
+          "email": "Não disponível"
+        }
+      ]
+    },
+    {
+      "estado": "Roraima",
+      "jornais": [
+        {
+          "nome": "Jornal de Roraima",
+          "abrangencia": "Roraima - geral",
+          "url": "https://www.jornalderoraima.com.br/",
+          "contato": "(95) 3625-5190",
+          "email": "contato@jornalderoraima.com.br"
+        },
+        {
+          "nome": "Expresso Roraima",
+          "abrangencia": "Roraima - geral",
+          "url": "https://expressororaima.com.br/",
+          "contato": "(95) 99170-2858",
+          "email": "contato@expressororaima.com.br, redacao@expressororaima.com.br"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Folha BV",
+          "abrangencia": "Roraima - geral",
+          "url": "https://www.folhabv.com.br/",
+          "contato": "Não disponível"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Roraima Energia",
+          "abrangencia": "Roraima - geral",
+          "url": "https://www.roraimaenergia.com.br/informacoes/noticias-anteriores/",
+          "contato": "Não disponível"
+        },
+        {
+          "nome": "Uiramutam",
+          "cidade": "Boa Vista",
+          "url": "https://uiramutam.com.br/sobre-roraima-e-boa-vista/",
+          "contato": "+55 (95) 3198-0000",
+          "email": "Não disponível"
+        }
+      ]
+    },
+    {
+      "estado": "Santa Catarina",
+      "jornais": [
+        {
+          "nome": "OCP News",
+          "cidade": "Jaraguá do Sul",
+          "url": "https://ocp.news/",
+          "contato": "(47) 2106-1919",
+          "email": "Não disponível publicamente",
+          "endereco": "R. Bernardo Dornbusch, 1106 – Vila Lalau, Jaraguá do Sul – SC, 89256-184"
+        },
+        {
+          "nome": "ND Mais",
+          "cidade": "Florianópolis",
+          "url": "https://ndmais.com.br/",
+          "contato": "(48) 3212-4100 (Recepção Grupo ND), (48) 3251-1414 (Atendimento ao Assinante Jornal ND)",
+          "email": "Não disponível publicamente",
+          "endereco": "Av. do Antão, 1762 Morro da Cruz, Florianópolis/SC - CEP 88025-150"
+        },
+        {
+          "nome": "NSC Total",
+          "cidade": "Múltiplas (principalmente Florianópolis)",
+          "url": "https://www.nsctotal.com.br/",
+          "contato": "(48) 3216-2500 (Geral NSC Comunicação)",
+          "email": "Não disponível publicamente",
+          "endereco": "Múltiplas unidades em SC; Florianópolis (referência geral NSC Comunicação)"
+        },
+        {
+          "nome": "JC Jornal da Cidade",
+          "cidade": "Joinville",
+          "url": "https://jcjoinville.com.br/",
+          "contato": "(47) 3025-8300 | (47) 99700-1424",
+          "email": "comercial@jcjoinville.com.br",
+          "endereco": "Rua Xaxim, 100 - Bairro Iririú - Joinville/SC"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Portal GCD",
+          "cidade": "Rio do Sul",
+          "url": "https://www.gcd.com.br/",
+          "contato": "(47) 3411-1155 (Comercial), (47) 99995-0036 (WhatsApp)",
+          "email": "Não disponível publicamente",
+          "endereco": "Rua Pastor Gerhold Hobus, 92 Sumaré, Rio do Sul/SC"
+        },
+        {
+          "nome": "Portal Catarinas",
+          "cidade": "Não especificado (online)",
+          "url": "https://catarinas.info/",
+          "contato": "Não disponível publicamente",
+          "email": "contato@catarinas.info (via formulário de contato)",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Portal Engeplus",
+          "cidade": "Criciúma",
+          "url": "https://engeplus.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "contato@engeplus.com",
+          "endereco": "Não disponível publicamente"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "ICL Notícias",
+          "cidade": "Não especificado (online)",
+          "url": "https://iclnoticias.com.br/",
+          "contato": "Via formulário de contato",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Desacato",
+          "cidade": "Não especificado (online)",
+          "url": "https://desacato.info/",
+          "contato": "Não disponível publicamente",
+          "email": "redacao@desacato.info",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Jornal de Maruim",
+          "cidade": "Maruim",
+          "url": "https://www.jornaldemaruim.com/",
+          "contato": "Não disponível publicamente",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        }
+      ]
+    },
+    {
+      "estado": "São Paulo",
+      "jornais": [
+        {
+          "nome": "Estadão (O Estado de S. Paulo)",
+          "cidade": "São Paulo",
+          "url": "https://www.estadao.com.br/",
+          "contato": "Central de Atendimento ao Assinante: (11) 3855-2000 (São Paulo e Grande SP) / 0800 014 2000 (Outras localidades). Publicidade: (11) 3856-2139. Classificados: (11) 3856-2130.",
+          "email": "assinaturas@estadao.com / falecom@estadao.com",
+          "endereco": "Av. Engenheiro Caetano Álvares, 55 - Jardim das Laranjeiras, São Paulo - SP, 02553-000"
+        },
+        {
+          "nome": "Gazeta de São Paulo",
+          "cidade": "São Paulo",
+          "url": "https://www.gazetasp.com.br/",
+          "contato": "(11) 3097-9097",
+          "email": "contato@gazetasp.com.br",
+          "endereco": "Rua Professor João de Brito, 74 - Jardim Paulista, São Paulo - SP, 01452-030"
+        },
+        {
+          "nome": "Diário do Centro do Mundo (DCM)",
+          "cidade": "São Paulo",
+          "url": "https://www.diariodocentrodomundo.com.br/",
+          "contato": "+55 11 3230 8511",
+          "email": "contato@dcm.com.br",
+          "endereco": "Não informado publicamente."
+        },
+        {
+          "nome": "Folha de São Paulo",
+          "cidade": "São Paulo",
+          "url": "https://www.folha.uol.com.br/",
+          "contato": "(11) 99486-0293",
+          "email": "leitor@grupofolha.com.br",
+          "endereco": "Alameda Barão de Limeira, 425 - Campos Elíseos, São Paulo - SP, 01202-900"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Notícias R7 (Record TV Paulista)",
+          "cidade": "São Paulo",
+          "url": "https://noticias.r7.com/sao-paulo/",
+          "contato": "(11) 3300-4000 (Central de Atendimento Record TV)",
+          "email": "Fale conosco via formulário no site.",
+          "endereco": "Rua da Várzea, 240 - Barra Funda, São Paulo - SP, 01140-080"
+        },
+        {
+          "nome": "VEJA (Editora Abril)",
+          "cidade": "São Paulo",
+          "url": "https://veja.abril.com.br/",
+          "contato": "Atendimento ao Assinante: (11) 5087-2112 (São Paulo e Grande SP) / 0800 775 2112 (Outras localidades). Vendas/Publicidade: (11) 3037-2000.",
+          "email": "sac.abrilsac@abril.com.br",
+          "endereco": "Av. das Nações Unidas, 7221 - Pinheiros, São Paulo - SP, 05425-902 (Endereço da Editora Abril)"
+        },
+        {
+          "nome": "Portal do Bitcoin",
+          "cidade": "São Paulo",
+          "url": "https://portaldobitcoin.uol.com.br/",
+          "contato": "Não informado publicamente.",
+          "email": "contato@portaldobitcoin.com, saori.honorato@portaldobitcoin.com",
+          "endereco": "Não informado publicamente."
+        },
+        {
+          "nome": "Exame",
+          "cidade": "São Paulo",
+          "url": "https://exame.com/",
+          "contato": "(11) 91162-9770",
+          "email": "publicidade@exame.com",
+          "endereco": "Não informado publicamente."
+        },
+        {
+          "nome": "CNN Brasil",
+          "cidade": "São Paulo",
+          "url": "https://www.cnnbrasil.com.br/",
+          "contato": "Não informado publicamente.",
+          "email": "sugestoes@cnnbrasil.com.br, comercial@cnnbrasil.com.br",
+          "endereco": "Rua Dr. Alberto Carlos de Campos, 55 - Vila Nova Conceição, São Paulo - SP, 04543-080"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Brasil de Fato",
+          "cidade": "São Paulo",
+          "url": "https://www.brasildefato.com.br/",
+          "contato": "Formulário de contato disponível no site.",
+          "email": "redacao@brasildefato.com.br",
+          "endereco": "Não há um endereço físico geral público. Opera com escritórios regionais."
+        },
+        {
+          "nome": "ICL Notícias (Instituto Conhecimento Liberta)",
+          "cidade": "São Paulo",
+          "url": "https://iclnoticias.com.br/",
+          "contato": "(11) 97750-0110 (WhatsApp)",
+          "email": "contato@icl.com.br",
+          "endereco": "Não há um endereço físico específico para o braço de notícias. O Instituto Conhecimento Liberta está localizado em São Paulo."
+        },
+        {
+          "nome": "Canal MyNews",
+          "cidade": "São Paulo",
+          "url": "https://canalmynews.com.br/",
+          "contato": "(11) 97893-6058 (WhatsApp)",
+          "email": "contato@canalmynews.com.br",
+          "endereco": "Rua Doutor Virgílio de Carvalho Pinto, 245 - Pinheiros, São Paulo - SP, 05415-020"
+        },
+        {
+          "nome": "The Intercept Brasil",
+          "cidade": "São Paulo",
+          "url": "https://www.intercept.com.br/",
+          "contato": "Não há telefone de contato público.",
+          "email": "imprensa@intercept.com.br (Imprensa) / legal@intercept.com.br (Jurídico) / apoio@intercept.com.br (Apoio)",
+          "endereco": "Não há um endereço físico público no Brasil."
+        },
+        {
+          "nome": "Agência Pública",
+          "cidade": "São Paulo",
+          "url": "https://apublica.org/",
+          "contato": "Formulário de contato disponível no site.",
+          "email": "contato@apublica.org",
+          "endereco": "Não há um endereço físico geral público."
+        },
+        {
+          "nome": "Nexo Jornal",
+          "cidade": "São Paulo",
+          "url": "https://www.nexojornal.com.br/",
+          "contato": "(11) 99878-0056 (WhatsApp para questões de assinatura/técnicas)",
+          "email": "assinatura@nexojornal.com.br",
+          "endereco": "Não há um endereço físico público."
+        },
+        {
+          "nome": "Investidor 10",
+          "cidade": "São Paulo",
+          "url": "https://investidor10.com.br/",
+          "contato": "Não informado publicamente.",
+          "email": "contato@investidor10.com.br",
+          "endereco": "Não informado publicamente."
+        }
+      ]
+    },
+    {
+      "estado": "Sergipe",
+      "jornais": [
+        {
+          "nome": "Jornal do Dia",
+          "cidade": "Aracaju",
+          "url": "https://jornaldodiase.com.br/",
+          "contato": "(79) 3214-0177",
+          "email": "Não disponível publicamente",
+          "endereco": "Rua Propriá, 182 - Centro, Aracaju - SE"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Infonet",
+          "cidade": "Aracaju",
+          "url": "https://infonet.com.br/",
+          "contato": "(79) 2106-8000",
+          "email": "Não disponível publicamente",
+          "endereco": "Rua Monsenhor Silveira 276, Bairro São José | Aracaju-SE, CEP 49015-030"
+        },
+        {
+          "nome": "Sergipe Notícias",
+          "cidade": "Não especificada (abrangência estadual)",
+          "url": "https://www.sergipenoticias.com/",
+          "contato": "(79) 98106-6190 (Redação)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "SEnoticias",
+          "cidade": "Não especificada (abrangência estadual)",
+          "url": "https://senoticias.com.br/se/",
+          "contato": "(79) 99171-5289 (WhatsApp)",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "FanF1",
+          "cidade": "Aracaju",
+          "url": "https://fanf1.com.br/",
+          "contato": "(79) 3252-4080, (79) 99632-2150 (WhatsApp)",
+          "email": "Não disponível publicamente",
+          "endereco": "Rua Irmã Dulce, 456, Bairro Olaria, CEP:49092-110 - Aracaju/SE"
+        },
+        {
+          "nome": "Mangue Jornalismo",
+          "cidade": "Não especificada (abrangência estadual)",
+          "url": "https://manguejornalismo.org/",
+          "contato": "Disponível via formulário de contato/e-mail no site",
+          "email": "Não disponível publicamente",
+          "endereco": "Não disponível publicamente (associado ao Centro de Estudos em Jornalismo e Cultura Cirigype)"
+        }
+      ]
+    },
+    {
+      "estado": "Tocantins",
+      "jornais": [
+        {
+          "nome": "Jornal do Tocantins",
+          "cidade": "Palmas",
+          "url": "https://www.jornaldotocantins.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "redacao@jornaldotocantins.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Jornal Opção",
+          "cidade": "Goiânia (com cobertura regional incluindo Tocantins)",
+          "url": "https://www.jornalopcao.com.br/",
+          "contato": "(62) 3223-9585",
+          "email": "jornalopcao@jornalopcao.com.br",
+          "endereco": "Rua 20, Nº 969, Qd. 68, Lt. 09, Setor Central, Goiânia-GO, CEP: 74030-140"
+        }
+      ],
+      "portais_de_noticias": [
+        {
+          "nome": "Conexão Tocantins",
+          "cidade": "Palmas",
+          "url": "https://conexaoto.com.br/",
+          "contato": "+55 (63) 3322-8556 / 98479-1681 (WhatsApp)",
+          "email": "redacao@conexaoto.com.br",
+          "endereco": "QD. 104 Norte rua NE 11 Lote 33 Sala 03, Setor: Plano Diretor Norte – Palmas – TO, CEP: 77006-030"
+        },
+        {
+          "nome": "Gazeta do Cerrado",
+          "cidade": "Palmas",
+          "url": "https://gazetadocerrado.com.br/",
+          "contato": "(63) 98463-1319 (Redação), (63) 98115-9796 (Anúncios/Institucional)",
+          "email": "jornalismo@gazetadocerrado.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Jornal Sou de Palmas",
+          "cidade": "Palmas",
+          "url": "https://soudepalmas.com.br/",
+          "contato": "(63) 9 9274-5503 (Whatsapp)",
+          "email": "contato@soudepalmas.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Portal Tocantins Noticia",
+          "cidade": "Palmas",
+          "url": "https://tonoticia.com.br/",
+          "contato": "(63) 98473-3732",
+          "email": "tonoticia@tonoticia.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Portal Agora Tocantins",
+          "cidade": "Palmas",
+          "url": "https://agora-to.com.br/",
+          "contato": "(63) 3214-1853 / (63) 9 8403-8418 (WhatsApp)",
+          "email": "contato@agora-to.com.br",
+          "endereco": "Quadra 804 Sul Alameda 13, nº 12, Plano Diretor Sul, Palmas-TO - CEP: 77023-042"
+        }
+      ],
+      "blogs_e_sites_independentes": [
+        {
+          "nome": "Cleber Toledo - Coluna do CT",
+          "cidade": "Palmas",
+          "url": "https://clebertoledo.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "contato@clebertoledo.com.br",
+          "endereco": "Não disponível publicamente"
+        },
+        {
+          "nome": "Jornal Porto Mídia",
+          "cidade": "Porto Nacional",
+          "url": "https://jornalportomidia.com.br/",
+          "contato": "Não disponível publicamente",
+          "email": "contato@jornalportomidia.com.br",
+          "endereco": "Não disponível publicamente"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "smtp_server": "smtp.zoho.com",
+    "smtp_port": 465,
+    "subject": "💥 VOCÊ FAZ PARTE DA LISTA VIP DA ASPPIBRA-DAO 💥",
+    "template_file": "email_template.html",
+    "sleep_time": 3
+}

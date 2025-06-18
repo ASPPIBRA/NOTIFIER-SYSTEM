@@ -1,0 +1,7 @@
+dnspython==2.7.0
+email_validator==2.2.0
+idna==3.10
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+python-dotenv==1.1.0
+tenacity==9.1.2
